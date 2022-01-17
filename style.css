@@ -1,0 +1,83 @@
+.container{
+     margin-bottom: 40px;
+     
+     padding-top: 30px;
+}
+
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 28px;
+}
+.row{
+    text-align: center;
+    align-items: center;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.price{
+       color: #FF136F;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%); 
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat1{
+    background-color: orange;
+    
+    
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.container1{
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.btn{
+    border-radius: 15px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.btn1{
+    border-radius: 15px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.btn2{
+    border-radius: 15px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
